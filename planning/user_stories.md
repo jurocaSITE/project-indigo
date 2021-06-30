@@ -6,7 +6,9 @@ Pod Members: **Jungah Ahn, Camila Iligaray, Robert Velasco**
 
 Problem Statement: To create a website where people can track their reading progress, discuss books, find new recommendations, and browse all-things-literature related.
 
-Target Audience: People who read.
+Target Audience: 
+  - People who read and enjoy interacting with others and discuss what they've read in a public forum
+  - People of all tech saviness
 
 ## User Roles
 
