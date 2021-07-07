@@ -17,8 +17,8 @@ Member
 ## User Personas
 
 Member:
-  - Alice is a college student in her second year who enjpys everything literature. She also likes hearing others' opinions on books she's read.       She recently finished a book and is looking for something new. She wants a site to search for recommendations.
-  - Ms. Melinda is the librarian at CodePath High School. She is a very seasoned and experienced reader who loves finding new books to add to her       collection. Part of her job is recommending books to students of all backgrounds and reading levels. She has read so many books so far, but can     never remember everything.
+  - Alice is a college student in their second year who enjpys everything literature. They also likes hearing others' opinions on books they've read. They recently   finished a book and are looking for something new. They want a site to search for recommendations.
+  - Ms. Melinda is the librarian at CodePath High School. She is a very seasoned and experienced reader who loves finding new books to add to her collection. Part      of her job is recommending books to students of all backgrounds and reading levels. She has read so many books so far, but can never remember everything.
 
 ## User Stories
 
