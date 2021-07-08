@@ -22,8 +22,6 @@ List all the pages and screens in the app. Include wireframes for at least 3 of 
 
 Describe your app's data model using diagrams or tables
 
-(notion)[https://www.notion.so/b6e068d47e6f47e58e2594663f759bb9?v=5f08ab48b875405b894ad5bfaa6c35c4]
-
 ## Endpoints
 
 List the API endpoints you will need to implement.
