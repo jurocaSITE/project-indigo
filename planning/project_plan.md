@@ -70,6 +70,3 @@ Items Link to Notion Document
 
 [Link to Endpoints in Notion](https://www.notion.so/69bbb2d631974dd3bbf5eae02c348238?v=47c204c59fef4e699db45f227787f0da)
 
-- 
-
-***Don't forget to set up your Issues, Milestones, and Project Board!***
