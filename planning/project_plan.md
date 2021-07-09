@@ -37,7 +37,7 @@ Personas:
 
 List all the pages and screens in the app. Include wireframes for at least 3 of them.
 
-[Link to Figma Wireframe](https://www.figma.com/file/CbccgIeL2pNO1SnZUb10Dp/Project-Indigo-Wireframe)
+[Link to Figma Wireframe](https://www.figma.com/file/Ch7mNRBcT3V0TaxZrPFNGC/Project-Indigo-High-Fidelity?node-id=0%3A1)
 
 - Home Page (logged in vs. not logged in)
 - Log In 
